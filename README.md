@@ -2,4 +2,4 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Demo: https://obscure-woodland-46440.herokuapp.com/
+Demo: https://flamboyant-lalande-9c98f1.netlify.com/
